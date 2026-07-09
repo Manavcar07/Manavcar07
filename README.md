@@ -27,11 +27,17 @@ Passionate about building secure, scalable and impactful software.
 
 ## 💭 Daily Motivation
 
-> 🚀 **Consistency beats talent when talent doesn't work hard.**
->
-> *Small efforts, repeated every day, lead to remarkable results.*
+<h2 align="center">💡 Daily Motivation</h2>
 
----
+<div align="center">
+
+<h3>✨ <i>"Consistency beats talent when talent doesn't work hard."</i> ✨</h3>
+
+<p>
+<em>Small efforts, repeated every day, lead to remarkable results.</em>
+</p>
+
+</div>
 
 ## 🚀 Languages & Tools
 
