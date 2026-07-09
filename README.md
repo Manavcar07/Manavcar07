@@ -25,13 +25,11 @@ Passionate about building secure, scalable and impactful software.
 
 ---
 
-## 💭 Daily Motivation
-
-<h2 align="center">💡 Daily Motivation</h2>
+<h2 align="center">💡 Motivation</h2>
 
 <div align="center">
 
-<h3>✨ <i>"Consistency beats talent when talent doesn't work hard."</i> ✨</h3>
+<h3> <i>"Consistency beats talent when talent doesn't work hard."</i> </h3>
 
 <p>
 <em>Small efforts, repeated every day, lead to remarkable results.</em>
@@ -106,7 +104,7 @@ Passionate about building secure, scalable and impactful software.
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+ Thanks for visiting my profile 
 </h3>
 
 <p align="center">
